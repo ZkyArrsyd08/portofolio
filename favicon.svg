@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <!-- Badge background -->
+  <rect width="40" height="40" rx="11" fill="#432f2e"/>
+  <!-- Subtle inner ring for depth -->
+  <rect x="1.5" y="1.5" width="37" height="37" rx="9.5" fill="none" stroke="#feefb8" stroke-opacity="0.18" stroke-width="1"/>
+  <!-- Z monogram -->
+  <path d="M11 13 H29 L11 27 H29" fill="none" stroke="#feefb8" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blue accent dot at Z endpoint — echoes the "Zaky." period -->
+  <circle cx="29" cy="27" r="2.6" fill="#c4dae8"/>
+</svg>
